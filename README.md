@@ -1,5 +1,5 @@
 # Hello, I am Hallowed!
-Hello, I am Hallowed! I love to code and do it as a hobby, even though I'm not really good at it.
+Hello, I am Hallowed! I love to code as a hobby, even though I'm not really good at it.
 - 🔭 I’m currently working on websites and unblocking stuff!
 - 🌱 I’m currently learning Python
 - ⚡ Fun fact: Hallowed is a name I got from a random name generator.
