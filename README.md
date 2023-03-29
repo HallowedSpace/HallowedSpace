@@ -23,5 +23,7 @@ Hello, I am Hallowed! I love to code and do it as a hobby, even though I'm not r
 
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=HallowedSpace)
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HallowedSpace)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HallowedSpace)
