@@ -1,7 +1,7 @@
 # Hello, I am Hallowed!
 Hello, I am Hallowed! I love to code as a hobby, even though I'm not really good at it.
 - 🔭 I’m currently working on websites and unblocking stuff!
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and DiscordJS
 - ⚡ Fun fact: Hallowed is a name I got from a random name generator.
 #### Operating System
 ![](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
