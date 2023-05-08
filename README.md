@@ -3,8 +3,6 @@ Hello, I am Hallowed! I love to code as a hobby, even though I'm not really good
 - 🔭 I’m currently working on websites and unblocking stuff!
 - 🌱 I’m currently learning Python and DiscordJS
 - ⚡ Fun fact: Hallowed is a name I got from a random name generator.
-#### Linux Type
-![](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 #### Browser
 ![](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 #### Languages
