@@ -19,11 +19,11 @@ Hello, I am Hallowed! I love to code as a hobby, even though I'm not really good
 
 
 
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={HallowedSpace}&theme={dark})
-![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={HallowedSpace}&theme={dark})
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HallowedSpace&theme=dark)
+![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HallowedSpace&theme=dark)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=HallowedSpace)
+![Trophies](https://github-profile-trophy.vercel.app/?username=HallowedSpace&theme=dark)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HallowedSpace)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HallowedSpace&theme=dark)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HallowedSpace)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HallowedSpace&theme=dark)
