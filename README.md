@@ -1,19 +1,17 @@
 # I am Hallowed, a not good coder who tries.
 ```json
 {
-  "Name": "Hallowed",
-  "Hobbies": ["Coding", "Gaming", "Sleeping"],
-  "Smart": false,
-  "Insane": true,
-  "Tech": {
-      "Laptop": "Chromebook",
-      "PC": null,
-      "Phones": ["Samsung", "LG"]
-  },
-  "Contact": {
-      "Discord_Username": "hallowedspace",
-      "Email": "none",
-    },
+  "name": "Hallowed",
+  "interests": ["OSINT", "Cybersecurity", "Coding", "Technology", "Engineering"],
+  "hobbies": ["Coding", "Gaming", "Unblocking Stuff", "watching sys admins cry"],
+  "programmingLanguages": ["Javascript", "CSS", "HTML", "Markdown", "Python (Kinda)"],
+  "operatingSystem": "ChromeOS",
+  "browser": "Chrome",
+  "projects": {
+      "hallowedTools": {
+        "desc": "A site with games, a proxy embedded within an iframe because i am too lazy to actually try to add one, and ultimate about:blank cloaking"
+      }  
+  }
 }
 ```
 ![trophy](https://github-profile-trophy.vercel.app/?username=hallowedspace&theme=darkhub&no-frame=true&margin-h=15&margin-w=15&column=3)
