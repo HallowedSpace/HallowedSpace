@@ -32,4 +32,4 @@
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HallowedSpace&theme=dark)
 
-![Eyes](https://komarev.com/ghpvc/?username=HallowedSpace&color=blueviolet)
+![Eyes](https://komarev.com/ghpvc/?username=HallowedSpace&color=blueviolet&label=People+That+Have+Looked+At+My+Profile&style=for-the-badge))
