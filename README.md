@@ -7,7 +7,7 @@
   "Insane": true,
   "Tech": {
       "Laptop": "Chromebook",
-      "PC": undefined,
+      "PC": null,
       "Phones": ["Samsung", "LG"]
   },
   "Contact": {
