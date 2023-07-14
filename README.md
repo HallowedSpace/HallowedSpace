@@ -16,7 +16,7 @@
     },
 }
 ```
-![trophy](https://github-profile-trophy.vercel.app/?username=hallowedspace&theme=darkhub&no-frame=true&margin-h=50&margin-w=50)
+![trophy](https://github-profile-trophy.vercel.app/?username=hallowedspace&theme=darkhub&no-frame=true&margin-h=50&margin-w=50&column=3)
 #
 
 
