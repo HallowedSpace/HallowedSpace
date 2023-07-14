@@ -30,3 +30,4 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HallowedSpace&theme=dark)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HallowedSpace&theme=dark)
+![](https://komarev.com/ghpvc/?username=hallowedspace&color=blueviolet)
