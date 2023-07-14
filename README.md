@@ -23,7 +23,7 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HallowedSpace&theme=dark)
 
   
-![trophy](https://github-profile-trophy.vercel.app/?username=hallowedspace&theme=onedark&no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=hallowedspace&theme=darkhub&no-frame=true)
 
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HallowedSpace&theme=dark)
