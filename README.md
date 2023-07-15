@@ -2,11 +2,13 @@
 ```json
 {
   "name": "Hallowed",
-  "interests": ["OSINT", "Cybersecurity", "Coding", "Technology", "Engineering"],
+  "interests": ["OSINT", "Cybersecurity", "Computer Science", "Technology", "Engineering", "Mathematics"],
   "hobbies": ["Coding", "Gaming", "Unblocking Stuff", "watching sys admins cry"],
   "programmingLanguages": ["Javascript", "CSS", "HTML", "Markdown", "Python (Kinda)"],
   "operatingSystem": "ChromeOS",
   "browser": "Google Chrome",
+  "linux": "Debian",
+  "accomplishments": null,
   "projects": {
       "hallowedTools": {
         "desc": "A site with games, a proxy embedded within an iframe because i am too lazy to actually try to add one, and about:blank cloaking"
