@@ -6,11 +6,21 @@
   "hobbies": ["Coding", "Gaming", "Unblocking Stuff", "watching sys admins cry"],
   "programmingLanguages": ["Javascript", "CSS", "HTML", "Markdown", "Python (Kinda)"],
   "operatingSystem": "ChromeOS",
-  "browser": "Chrome",
+  "browser": "Google Chrome",
   "projects": {
       "hallowedTools": {
-        "desc": "A site with games, a proxy embedded within an iframe because i am too lazy to actually try to add one, and ultimate about:blank cloaking"
-      }  
+        "desc": "A site with games, a proxy embedded within an iframe because i am too lazy to actually try to add one, and about:blank cloaking"
+      }, 
+      "blooketAccountViewer": {
+        "desc": "An account viewer for the educational game called blooket, which utilizes the blooket api to find info about accounts."
+      },
+      "hallowedsImageReplacer": {
+        "desc": "A chrome extension that replaces every image on every page with Hallowed and is lazily coded."
+      }
+  },
+  "contact": {
+    "Emails": ["none"],
+    "Discord": ["hallowedspace"]
   }
 }
 ```
