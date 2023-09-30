@@ -3,15 +3,15 @@
 {
   "name": "Hallowed",
   "interests": ["OSINT", "Cybersecurity", "Computer Science", "Technology", "Engineering", "Mathematics"],
-  "hobbies": ["Coding", "Gaming", "Unblocking Stuff", "watching sys admins cry"],
-  "programmingLanguages": ["Javascript", "CSS", "HTML", "Markdown", "Python (Kinda)"],
+  "hobbies": ["Coding", "Gaming", "Unblocking Stuff", "Web Development"],
+  "programmingLanguages": ["Javascript", "CSS", "HTML", "Markdown"],
   "operatingSystem": "ChromeOS",
   "browser": "Google Chrome",
-  "linux": "Debian",
+  "linux": "Crostini Virtual Machine (Debian 10)",
   "accomplishments": null,
   "projects": {
-      "hallowedTools": {
-        "desc": "A site with games, a proxy embedded within an iframe because i am too lazy to actually try to add one, and about:blank cloaking"
+      "SuperbGames": {
+        "desc": "Work In Progress site with advanced cloaking features and up-to-date chrome exploits."
       }, 
       "blooketAccountViewer": {
         "desc": "An account viewer for the educational game called blooket, which utilizes the blooket api to find info about accounts."
