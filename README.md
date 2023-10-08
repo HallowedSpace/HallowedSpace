@@ -4,7 +4,6 @@
 
 ![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HallowedSpace&theme=dark)
 
-# 
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HallowedSpace&theme=dark)
 
