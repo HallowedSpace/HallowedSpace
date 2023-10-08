@@ -14,4 +14,4 @@
 
 ![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HallowedSpace&theme=dark)
 # 
-![Eyes](https://komarev.com/ghpvc/?username=HallowedSpace&color=black&label=People+That+Have+Looked+At+My+Profile&style=for-the-badge)
+![Eyes](https://komarev.com/ghpvc/?username=HallowedSpace&color=grey&label=People+That+Have+Looked+At+My+Profile&style=for-the-badge)
