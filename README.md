@@ -9,5 +9,3 @@
 
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HallowedSpace&theme=dark)
-
-![Eyes](https://komarev.com/ghpvc/?username=HallowedSpace&color=grey&label=People+That+Have+Looked+At+My+Profile&style=for-the-badge)
