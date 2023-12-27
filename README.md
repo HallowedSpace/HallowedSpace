@@ -1,9 +1,5 @@
 I like to code things.
-
-My favorite food is pizza 
-
-i use debian linux
-
 i play chess
-
 i use vscode
+i am working on a games site currently
+have a good day
